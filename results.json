@@ -1,0 +1,2568 @@
+{
+  "feed": {
+    "author": {
+      "name": {
+        "label": "iTunes Store"
+      },
+      "uri": {
+        "label": "http://www.apple.com/uk/itunes/"
+      }
+    },
+    "entry": [
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id518316625"
+          },
+          "name": {
+            "label": "ePub unofficial"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-11-03T07:47:53-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9250940999"
+        },
+        "title": {
+          "label": "Amazing app, could do with icon"
+        },
+        "content": {
+          "label": "Hey, this is an incredible app and I highly recommend it to anyone interested in meditating (or not! This app could make you interested!).\nOne thing I would recommend is having an icon saying whether or not you’ve meditated today, as this would help massively with people with as poor memory as me. \nAlso perhaps having a part where you can put in recommendations like this, as otherwise you have to have it as a review!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id538503566"
+          },
+          "name": {
+            "label": "Irish Mason"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-10-30T04:54:10-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9237015329"
+        },
+        "title": {
+          "label": "Just get it"
+        },
+        "content": {
+          "label": "This is amazing. There is such a variety of ways to use this from simple sitting to guided meditation. It’s amazing to that that’s totally free. As the title of this review says ‘just get it’.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1462497505"
+          },
+          "name": {
+            "label": "jriz.1"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-10-29T14:34:36-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9235142051"
+        },
+        "title": {
+          "label": "Really do recommend"
+        },
+        "content": {
+          "label": "So im a teenage boy(13) and I've been wanting to self-improve and just get on with my life and this app has really helped me. This app was also recommended to me by Hamza Ahmed you should checks his videos out.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1168632394"
+          },
+          "name": {
+            "label": "flowerpower0764"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-10-28T03:25:57-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9229903004"
+        },
+        "title": {
+          "label": "Best app ever"
+        },
+        "content": {
+          "label": "I love this app. In the past I have had trouble sleeping and relaxing but this app has changed that. I feel more relaxed and ready to sleep after listening to one of the sleep courses. It’s not just about sleeping but they have ways to channel anger, have gratitude for everything and much more. This is all the meditation you need and more. DOWNLOAD THIS APP NOW. It will change your life.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1414001754"
+          },
+          "name": {
+            "label": "Adonisssssssssssss"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-10-23T00:41:28-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9213054413"
+        },
+        "title": {
+          "label": "Adonisssssss"
+        },
+        "content": {
+          "label": "Amazing app helped my mental health a lot :)",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id425797142"
+          },
+          "name": {
+            "label": "Nsedlts she's"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-10-18T17:18:29-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9198707177"
+        },
+        "title": {
+          "label": "Amazing App"
+        },
+        "content": {
+          "label": "Best meditation app",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id467329477"
+          },
+          "name": {
+            "label": "Cooldude1099999955544411167"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-10-17T11:55:35-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9194811523"
+        },
+        "title": {
+          "label": "Adonissssss"
+        },
+        "content": {
+          "label": "Based app for based people.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1126353359"
+          },
+          "name": {
+            "label": "Jackwaman16"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-10-08T00:24:20-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9162833507"
+        },
+        "title": {
+          "label": "Brilliant"
+        },
+        "content": {
+          "label": "All free, all great sessions with a simple course to get you into meditation and build a good habit. Highly recommended",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1363233686"
+          },
+          "name": {
+            "label": "Simon Astarci"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-10-04T13:02:03-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9151412597"
+        },
+        "title": {
+          "label": "Incredible app please get"
+        },
+        "content": {
+          "label": "Amazingly helpful I use this very often",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id473846520"
+          },
+          "name": {
+            "label": "slatt+"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-10-04T00:01:49-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9149446785"
+        },
+        "title": {
+          "label": "Adonis"
+        },
+        "content": {
+          "label": "I go Adonis mode whenever I put this on",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id732890393"
+          },
+          "name": {
+            "label": "Mohammad Ibrahim 30403"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-10-03T13:34:48-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9148142263"
+        },
+        "title": {
+          "label": "Best meditation app yet"
+        },
+        "content": {
+          "label": "This app is a very good meditation app. It is completely free, with no ads. Run by volunteers. I greatly Appreciate the developers.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1203297529"
+          },
+          "name": {
+            "label": "ADONIS ndbejekdnskak"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-10-03T08:14:59-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9147359244"
+        },
+        "title": {
+          "label": "10/10"
+        },
+        "content": {
+          "label": "10/10",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1134641381"
+          },
+          "name": {
+            "label": "ssxhyjkouteg"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-10-02T23:44:33-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9146050370"
+        },
+        "title": {
+          "label": "not loading"
+        },
+        "content": {
+          "label": "was able to enjoy it for a few days before it stopped working",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1450308419"
+          },
+          "name": {
+            "label": "Limitless Lion"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-09-22T04:04:40-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9109784266"
+        },
+        "title": {
+          "label": "Amazing"
+        },
+        "content": {
+          "label": "This is one of the best meditation apps I have used. Thank you.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id541038000"
+          },
+          "name": {
+            "label": "George Smith x"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-09-13T10:55:41-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9081476521"
+        },
+        "title": {
+          "label": "Best Mediation App"
+        },
+        "content": {
+          "label": "My favourite meditation app so far, after trying multiple. Also no ads or monthly payments is amazing!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id958939589"
+          },
+          "name": {
+            "label": "hurt gdfhgdlh"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-09-12T13:02:34-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9078549848"
+        },
+        "title": {
+          "label": "Adonissss"
+        },
+        "content": {
+          "label": "I’m on my way to becoming the best version of myself",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id761462292"
+          },
+          "name": {
+            "label": "Lucas Beastall"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-09-08T01:29:04-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9063541495"
+        },
+        "title": {
+          "label": "Best meditation app by far"
+        },
+        "content": {
+          "label": "Non profit, seems to have a great team behind it that really care. exactly what you want from a meditation app, no unnecessary fluff. 1 of 5 apps I use daily.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id533224057"
+          },
+          "name": {
+            "label": "Hi 123777"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-09-07T02:09:58-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9060525432"
+        },
+        "title": {
+          "label": "The only meditation app you ever need!"
+        },
+        "content": {
+          "label": "Easy to use, lets you download meditations, loads of meditations to choose from for all different purposes, and most amazingly completely free! 15/10 app, would 100% recommend, Medito is truly a gem ❤️",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1345810799"
+          },
+          "name": {
+            "label": "jdjsjxknfkdkdbigblack"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-09-05T22:39:56-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9057005369"
+        },
+        "title": {
+          "label": "Adonis"
+        },
+        "content": {
+          "label": "It’s making me into an Adonis",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id226794214"
+          },
+          "name": {
+            "label": "Bkbalaji"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-08-28T14:35:22-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9027773972"
+        },
+        "title": {
+          "label": "Great App , HealthKit integration could have been added"
+        },
+        "content": {
+          "label": "Lots of content , very useful to get into the habit of meditation. Could have had HealthKit integration.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1293679175"
+          },
+          "name": {
+            "label": "kacesera"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-08-24T02:12:20-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9011311811"
+        },
+        "title": {
+          "label": "Meditation should be available to everyone!"
+        },
+        "content": {
+          "label": "I love that this app is so high quality & accessible to everyone with a phone. The guided meditations remind me a lot of the meditations I did in university throughout my theatre degree: Focused & no fluff. Exactly what I’ve been looking for!\n\nI used Balance in the past, but those guided meditations felt a bit more like motivational sessions, which is an easy trap to fall into— whereas these truly allow you the space to connect in with your thoughts/body/breath. \n\nWell done!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1429624795"
+          },
+          "name": {
+            "label": "abc893"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-08-22T07:33:34-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9005323533"
+        },
+        "title": {
+          "label": "Really good"
+        },
+        "content": {
+          "label": "out of all of the meditation apps this is probably the best. It’s free and it does it’s job perfectly",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id956545861"
+          },
+          "name": {
+            "label": "Joe Lemin"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-08-22T00:42:26-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "9004244090"
+        },
+        "title": {
+          "label": "Best App ever"
+        },
+        "content": {
+          "label": "This is the best meditation app and general app I have ever used. It’s amazing it’s completely free to use and is absolutely amazing.\n\nI have never written a review for an app before but this app I just had to write one for.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id650982937"
+          },
+          "name": {
+            "label": "Abo Yazzn"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-08-18T09:48:21-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "8991983617"
+        },
+        "title": {
+          "label": "Thank you for free access!"
+        },
+        "content": {
+          "label": "This is a useful App, it has helped me to go through very difficult time. Many thanks guys!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1080561560"
+          },
+          "name": {
+            "label": "sududhdhdhf"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-08-04T11:17:11-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "8945001954"
+        },
+        "title": {
+          "label": "Recommended by Hamza (Adonis)"
+        },
+        "content": {
+          "label": "This app has bettered my meditation sessions and helped me to be more calm and focused during meditation.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1369629033"
+          },
+          "name": {
+            "label": "AranTheGreat"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-08-01T15:39:24-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "8935369823"
+        },
+        "title": {
+          "label": "No flaws"
+        },
+        "content": {
+          "label": "I will not lie I found this from YouTuber \nHamza, but this is so helpful that it is free and a way to encourage a better morning routine. I don’t know but the Audios make me feel a lot better.\n\nI don’t see why you wouldn’t use it if you meditate. I rated 5/5",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id478129014"
+          },
+          "name": {
+            "label": "stefanology_"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-08-01T14:31:38-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "8935231288"
+        },
+        "title": {
+          "label": "It doesn’t work?"
+        },
+        "content": {
+          "label": "Love the idea of the app. And it’s free! But the content just doesn’t load. I have fibre optics at home so it’s def not my wifi…",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id670159132"
+          },
+          "name": {
+            "label": "Fluence1510"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-07-27T04:43:50-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "8916720732"
+        },
+        "title": {
+          "label": "Hamza"
+        },
+        "content": {
+          "label": "Amazing app for meditation. Recommend by the chad hamza himself.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "1"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1431319757"
+          },
+          "name": {
+            "label": "KingJxd24"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-07-25T05:38:57-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "8910070755"
+        },
+        "title": {
+          "label": "Best meditating app ever"
+        },
+        "content": {
+          "label": "It has lots of steps which is really conveinient and a bunch of other stuff, I feel like a robot writing this but Hamza and stuff.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id451321420"
+          },
+          "name": {
+            "label": "Dragon Dasher"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-07-21T07:12:42-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "8896916188"
+        },
+        "title": {
+          "label": "The Best Meditation app"
+        },
+        "content": {
+          "label": "The fact that this app is completely free is astounding, the content is high quality and there are plenty of different meditations to do.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id339499784"
+          },
+          "name": {
+            "label": "Moor adons"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-07-13T18:32:38-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "8871506920"
+        },
+        "title": {
+          "label": "Incredible"
+        },
+        "content": {
+          "label": "The difference this app has made in my life is immense, and it’s so well-taught and user friendly. I truly believe that if even half the population used this app, the world would be a much better and calmer place. But it doesn’t need to be when you have Medito because it teaches you to view it as a good and calm place regardless.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1427240107"
+          },
+          "name": {
+            "label": "DragonOfTheSkies"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-07-12T13:21:39-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "8867354950"
+        },
+        "title": {
+          "label": "Best Meditation App"
+        },
+        "content": {
+          "label": "Free and will always be, with a huge range of audio sessions and also unguided sessions too.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1247039170"
+          },
+          "name": {
+            "label": "pardonerb"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-07-07T23:41:08-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "2.0.47"
+        },
+        "id": {
+          "label": "8852253947"
+        },
+        "title": {
+          "label": "Good idea but randomly stops"
+        },
+        "content": {
+          "label": "I really appreciate a free meditation app and the 30 day challenge, but there’s been a few times where the meditation has randomly stopped during it and I haven’t got any idea so I keep going, but when I choose the ten minute or twenty minute ones, it’s because I have only that amount of time and then when I realise I’m left rushing around late for work. The will voice is also really robotic so would love to have more options for the 30 day challenge. It was great to start with but because of these issues it’s stopping my flow which is disappointing, I just need a meditation app I can trust won’t stop itself.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "1"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id785473620"
+          },
+          "name": {
+            "label": "ru popa"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-06-12T08:46:06-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "2.38"
+        },
+        "id": {
+          "label": "8767122744"
+        },
+        "title": {
+          "label": "Well structured and free!"
+        },
+        "content": {
+          "label": "I’m so happy I found a meditation app which is free. You can even download episodes to listen when you’re out!!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1311456162"
+          },
+          "name": {
+            "label": "Harry Simmons"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-06-12T01:04:29-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.38"
+        },
+        "id": {
+          "label": "8765941129"
+        },
+        "title": {
+          "label": "Meditation"
+        },
+        "content": {
+          "label": "Absolutely love it! Better then all the other ones like calm etc. completely free everything and has amazing variety. Keep up the good work\n\nPLEASE ADD A SEARCH BUTTON!!!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1351156521"
+          },
+          "name": {
+            "label": "hdydgdbs"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-06-01T08:25:00-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.38"
+        },
+        "id": {
+          "label": "8730361700"
+        },
+        "title": {
+          "label": "Amazing app"
+        },
+        "content": {
+          "label": "This meditation app is above all, it works and is free, i reccomend it to everyone who wants to meditate",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "1"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1413855597"
+          },
+          "name": {
+            "label": "VedantJM"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-05-31T14:20:49-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.38"
+        },
+        "id": {
+          "label": "8727815893"
+        },
+        "title": {
+          "label": "Brilliant"
+        },
+        "content": {
+          "label": "Adonissss",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "1"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1413779831"
+          },
+          "name": {
+            "label": "dtnvcgiifgh"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-05-31T08:25:36-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.38"
+        },
+        "id": {
+          "label": "8726950116"
+        },
+        "title": {
+          "label": "Perfect"
+        },
+        "content": {
+          "label": "This app is the one for meditations, great selection that vary and introduce you to different approaches to meditation. As good if not better than most paid apps like calm etc.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1302107840"
+          },
+          "name": {
+            "label": "Kayo4863"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-05-22T01:31:34-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.38"
+        },
+        "id": {
+          "label": "8696085917"
+        },
+        "title": {
+          "label": "Great App"
+        },
+        "content": {
+          "label": "Good meditations, No Ads and its free",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "1"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1363498163"
+          },
+          "name": {
+            "label": "liamjk11"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-05-19T13:23:14-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.38"
+        },
+        "id": {
+          "label": "8687670101"
+        },
+        "title": {
+          "label": "Brilliant & free!"
+        },
+        "content": {
+          "label": "This app is brilliant, just as good as the extortionately priced mainstream apps.\n\nThe app is well designed and the narrators do a brilliant job.\n\nIf you enjoy this app make sure to donate to support the developers!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id662226995"
+          },
+          "name": {
+            "label": "bencolad"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-05-18T13:29:34-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.38"
+        },
+        "id": {
+          "label": "8684436391"
+        },
+        "title": {
+          "label": "Great App So Far"
+        },
+        "content": {
+          "label": "Really simple and easy to use app, you can tell the owners aren’t in this for their own financial gain clearly by it being free, which I think speaks volumes into their creation and intent behind it to actually want to help people.\n\nThere’s just one thing that I’d be keen to be added and that is for them to add longer sessions onto the daily meditation section as it only goes up to 20 minutes currently. I think if they could do additional longer sessions such as 30 mins, 40mins, 50 etc that’d be awesome and would make a huge difference. \n\nAlso, you could maybe add different voices such as a lady going through the mediation potentially (that’s not a huge deal though).",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "1"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id911550672"
+          },
+          "name": {
+            "label": "grace mcleod"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-05-16T00:54:43-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.38"
+        },
+        "id": {
+          "label": "8676128334"
+        },
+        "title": {
+          "label": "Brilliant App!"
+        },
+        "content": {
+          "label": "Firstly, this app is completely free. This separates them from a large portion of the meditation apps that cost around £60 a year. They have a range of categories, I am working through the 30 day meditation course, which is 10 minutes a day. The category “emergency” really calms my nerves as I know it is something I can use if I am ever feeling anxious. Also in there is a session to help with grievance. I really recommend this app",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id589536504"
+          },
+          "name": {
+            "label": "gshsjhdjs"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-05-09T13:55:28-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.38"
+        },
+        "id": {
+          "label": "8654496643"
+        },
+        "title": {
+          "label": "Adonis"
+        },
+        "content": {
+          "label": "Adonisssss",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "2"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "2"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id1119907100"
+          },
+          "name": {
+            "label": "Teabag87"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-05-08T16:50:58-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.38"
+        },
+        "id": {
+          "label": "8651606422"
+        },
+        "title": {
+          "label": "Fantastic"
+        },
+        "content": {
+          "label": "I thought I’d give it a go and very glad I have.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "1"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id599662297"
+          },
+          "name": {
+            "label": "LP0112"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-04-23T23:46:36-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.38"
+        },
+        "id": {
+          "label": "8600374614"
+        },
+        "title": {
+          "label": "Medito"
+        },
+        "content": {
+          "label": "Jeffery has trash mental health, he has heard about medito a few times and sees you meditating with medito “iT DoEsNt WoRk, PlUs MeDiTaTiNg Is GaY”, but Jeffery is the one that would benefit most from it, what a sperg. \nAdonisssssssssss, Adonis is aware of the powerful benefits of a daily mindfulness practice so he uses medito multiple times a day to calm his mind.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "2"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "2"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id270044779"
+          },
+          "name": {
+            "label": "RogerMortimer"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-02-08T01:35:24-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.01"
+        },
+        "id": {
+          "label": "8332159291"
+        },
+        "title": {
+          "label": "Completely Free - No Strings Attached"
+        },
+        "content": {
+          "label": "This meditation app has everything you need and everything the paid, alternative options offer, but it’s all free and genuinely given. Look no further.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id111861614"
+          },
+          "name": {
+            "label": "Ouvai"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-02-07T12:10:35-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.01"
+        },
+        "id": {
+          "label": "8330323478"
+        },
+        "title": {
+          "label": "Really good for bedtime"
+        },
+        "content": {
+          "label": "This app really helps my children sleep better before they could not sleep well and made them able to sleep perfectly \nBest meditation app yet",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id685191100"
+          },
+          "name": {
+            "label": "willbrss"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-01-25T14:07:33-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0"
+        },
+        "id": {
+          "label": "8282509214"
+        },
+        "title": {
+          "label": "High quality content"
+        },
+        "content": {
+          "label": "Great stuff!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "1"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id513553369"
+          },
+          "name": {
+            "label": "OlyTDB"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-01-19T01:46:20-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0"
+        },
+        "id": {
+          "label": "8257587160"
+        },
+        "title": {
+          "label": "Amazing app"
+        },
+        "content": {
+          "label": "I got recommended this app by a YouTuber named hamza a few months ago and have done it every day constantly since then. It really helps to increase concentration,reduce anxiety and depression and also just helps you be more mindful in general would recommend.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/gb/reviews/id648718852"
+          },
+          "name": {
+            "label": "ksi is the winner"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2022-01-16T01:36:48-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "2.0"
+        },
+        "id": {
+          "label": "8246408029"
+        },
+        "title": {
+          "label": "Love this app"
+        },
+        "content": {
+          "label": "this app is amazing, has all the meditation tools you need and more. really helps for keeping you consistent as well, 5 stars.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/gb/review?id=1500780518&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      }
+    ],
+    "updated": {
+      "label": "2022-11-05T16:30:57-07:00"
+    },
+    "rights": {
+      "label": "Copyright 2008 Apple Inc."
+    },
+    "title": {
+      "label": "iTunes Store: Customer Reviews"
+    },
+    "icon": {
+      "label": "http://itunes.apple.com/favicon.ico"
+    },
+    "link": [
+      {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=gb&id=130"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "self",
+          "href": "https://mzstoreservices-int-st.itunes.apple.com/gb/rss/customerreviews/id=1500780518/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "first",
+          "href": "https://itunes.apple.com/gb/rss/customerreviews/page=1/id=1500780518/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1500780518/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "last",
+          "href": "https://itunes.apple.com/gb/rss/customerreviews/page=2/id=1500780518/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1500780518/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "previous",
+          "href": "https://itunes.apple.com/gb/rss/customerreviews/page=1/id=1500780518/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1500780518/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "next",
+          "href": "https://itunes.apple.com/gb/rss/customerreviews/page=2/id=1500780518/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1500780518/sortBy=mostRecent/json"
+        }
+      }
+    ],
+    "id": {
+      "label": "https://mzstoreservices-int-st.itunes.apple.com/gb/rss/customerreviews/id=1500780518/sortBy=mostRecent/json"
+    }
+  }
+}
