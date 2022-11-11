@@ -2535,30 +2535,6 @@
           "rel": "self",
           "href": "https://mzstoreservices-int-st.itunes.apple.com/gb/rss/customerreviews/id=1500780518/sortBy=mostRecent/json"
         }
-      },
-      {
-        "attributes": {
-          "rel": "first",
-          "href": "https://itunes.apple.com/gb/rss/customerreviews/page=1/id=1500780518/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1500780518/sortBy=mostRecent/json"
-        }
-      },
-      {
-        "attributes": {
-          "rel": "last",
-          "href": "https://itunes.apple.com/gb/rss/customerreviews/page=2/id=1500780518/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1500780518/sortBy=mostRecent/json"
-        }
-      },
-      {
-        "attributes": {
-          "rel": "previous",
-          "href": "https://itunes.apple.com/gb/rss/customerreviews/page=1/id=1500780518/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1500780518/sortBy=mostRecent/json"
-        }
-      },
-      {
-        "attributes": {
-          "rel": "next",
-          "href": "https://itunes.apple.com/gb/rss/customerreviews/page=2/id=1500780518/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1500780518/sortBy=mostRecent/json"
-        }
       }
     ],
     "id": {

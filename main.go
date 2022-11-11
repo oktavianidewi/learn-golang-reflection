@@ -6,6 +6,7 @@ import (
 	"io/ioutil"
 	"log"
 	"reflect"
+	"strings"
 )
 
 type FeedType struct {
@@ -39,19 +40,24 @@ func main() {
 	}
 
 	// map
-	authors := reflect.ValueOf(data.Feed.Author)
-	inspection(authors)
+	// authors := reflect.ValueOf(data.Feed.Author)
+	// inspection(authors)
 
 	// slice
-	// entry := reflect.ValueOf(data.Feed.Entry)
+	entry := reflect.ValueOf(data.Feed.Entry)
+	inspect_rec([]string{"entry"}, entry)
 	// inspection(entry)
 
+	// link := reflect.ValueOf(data.Feed.Link)
+	// inspect_rec([]string{"link"}, link)
+
 	// struct
-	updated := reflect.ValueOf(data.Feed.Entry)
-	inspection(updated)
+	// updated := reflect.ValueOf(data.Feed.Entry)
+	// inspection(updated)
 }
 
 func inspection(data reflect.Value) {
+	fmt.Printf("Type %v, Kind %v, typeOf %v \n", data.Type(), data.Kind(), reflect.TypeOf(data))
 	switch data.Kind() {
 	case reflect.Map:
 		for _, key := range data.MapKeys() {
@@ -62,5 +68,27 @@ func inspection(data reflect.Value) {
 		for i := 0; i < data.Len(); i++ {
 			fmt.Printf("key %v, value %v \n", i, data.Index(i))
 		}
+	}
+}
+
+func inspect_rec(parent []string, data reflect.Value) {
+	switch data.Kind() {
+	case reflect.Slice:
+		for i := 0; i < data.Len(); i++ {
+			value := data.Index(i)
+			fmt.Printf("Data %v \n", i)
+			inspect_rec(parent, reflect.ValueOf(value.Interface()))
+		}
+	case reflect.Map:
+		for _, key := range data.MapKeys() {
+			value := data.MapIndex(key)
+			parent = append(parent, key.String())
+			inspect_rec(parent, reflect.ValueOf(value.Interface()))
+
+			// pop out the last visited node name
+			parent = parent[:len(parent)-1]
+		}
+	default:
+		fmt.Printf("\t %v: %v \n", strings.Join(parent, "_"), data.String())
 	}
 }
